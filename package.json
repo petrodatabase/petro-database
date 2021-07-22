@@ -55,7 +55,7 @@
     "swiper": "^4.0.0-beta.3",
     "ts-xlsx": "0.0.11",
     "vis": "^4.20.1",
-    "xlsx": "^0.11.3",
+    "xlsx": "^0.17.0",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {
